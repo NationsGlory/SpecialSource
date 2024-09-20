@@ -25,6 +25,17 @@
         </license>
     </licenses>
 
+    <distributionManagement>
+        <repository>
+            <id>ngmaven</id>
+            <url>https://maven.nationsglory.fr/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>ngmaven</id>
+            <url>https://maven.nationsglory.fr/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
+
     <scm>
         <connection>scm:git:git@github.com:md-5/SpecialSource.git</connection>
         <developerConnection>scm:git:git@github.com:md-5/SpecialSource.git</developerConnection>

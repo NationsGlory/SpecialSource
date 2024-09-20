@@ -32,7 +32,6 @@ import org.objectweb.asm.tree.ClassNode;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
 import net.md_5.specialsource.Jar;
